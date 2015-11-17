@@ -17,7 +17,7 @@ Agregar las siguientes dependencias en el archivo build.gradle de la app.
   
 ```
 
-######## Al realizar este paso, tener en cuenta tener actualizados el paquete de Google Play Services y el de Google Repository, se pueden actualizar desde el SDK Manager, en el paquete de Extras (Para asegurarse de que esten bien actualizados, se pueden desistalar y luego volver a instalar dichos paquetes):
+###### Al realizar este paso, tener en cuenta tener actualizados el paquete de Google Play Services y el de Google Repository, se pueden actualizar desde el SDK Manager, en el paquete de Extras (Para asegurarse de que esten bien actualizados, se pueden desistalar y luego volver a instalar dichos paquetes):
 
 ![Alt text](https://github.com/orejuelajd/HelloWorld_CastVideo_GoogleCast/blob/master/imagesreadme/cast_005.JPG "Optional Text")
 
