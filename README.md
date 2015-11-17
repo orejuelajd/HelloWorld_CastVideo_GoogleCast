@@ -72,7 +72,9 @@ Clic derecho a la carpeta del proyecto "app", clic en "open module settings" y c
 ```
 
 Con esto, se podrá visualizar el botón que brinda la opción de hacer cast cuando hay un 
-y que aparece cuando se detecta un dispositivo Chromecast en la red.
+y que aparece cuando se detecta un dispositivo Chromecast en la red. 
+
+###### NOTA: Si la parte "android:showAsAction="never"" genera errores, darle clic derecho al error y darle a "desactivar revision"
 
 ![Alt text](https://github.com/orejuelajd/HelloWorld_CastVideo_GoogleCast/blob/master/imagesreadme/cast_004.JPG "Optional Text")
 
